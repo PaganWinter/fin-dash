@@ -1,0 +1,23 @@
+{
+  "name": "fin-dash",
+  "version": "1.0.0",
+  "description": "Financial Dashboard",
+  "_main": "main.js",
+  "_scripts": {
+    "start": "electron ."
+  },
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [],
+  "author": "PaganWinter",
+  "license": "",
+  "devDependencies": {},
+  "dependencies": {
+    "electron": "^2.0.0",
+    "jquery": "^3.3.1",
+    "xlsx": "^0.13.4"
+  }
+}
